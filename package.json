@@ -1,0 +1,17 @@
+{
+  "name": "njs-302",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TP302.js",
+  "scripts": {
+    "start": "node TP302.js"
+  },
+  "bin": {
+    "ask-me-something": "./TP302.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "inquirer": "^1.2.1",
+    "sqlite": "^2.2.0"
+  }
+}
